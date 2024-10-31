@@ -1,6 +1,7 @@
 # Data Drift Analyzer 🔍
 
 Fast, robust, and visualization-rich data drift detection using Polars! 🚀
+
 Built with AI 💙 via Claude Sonnet 3.5 for data scientists who love clean, fast, and reliable analytics!
 
 ## Key Features
